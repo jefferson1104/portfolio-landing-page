@@ -1,5 +1,5 @@
 <h2 align="center">
-  Food Responsive Website
+  Landing page portfolio example
 </h2>
 
 <p align="center">
